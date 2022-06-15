@@ -1,3 +1,2 @@
 # Practice-Mini-Project-1
-Mini Project from Tim:)
-Simple quiz game on python.
+Mini Projects from Techwithtim for practice.
